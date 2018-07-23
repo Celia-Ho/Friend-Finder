@@ -9,6 +9,7 @@ The Friend Finder is an application for finding your best matched friend based o
     3. path
 
 ## Deployed to Heroku
-https://git.heroku.com/protected-sierra-34731.git
+https://protected-sierra-34731.herokuapp.com/
+
 
 
