@@ -13,7 +13,7 @@ https://protected-sierra-34731.herokuapp.com/
 
 ## Tools/languages used:  
 
-Materialize, Express.js, Node.js, Heroku, JavaScript, CSS, HTML, Git
+Materialize, Express.js, Node.js, Heroku, jQuery, JavaScript, CSS, HTML, Git
 
 
 
