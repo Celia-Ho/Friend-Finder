@@ -11,5 +11,9 @@ The Friend Finder is an application for finding your best matched friend based o
 ## Deployed to Heroku
 https://protected-sierra-34731.herokuapp.com/
 
+## Tools/languages used:  
+
+Materialize, Express.js, Node.js, Heroku, JavaScript, CSS, HTML, Git
+
 
 
